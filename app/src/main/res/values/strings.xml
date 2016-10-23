@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="favourites">There are no cities to display. Search the city from the search box and save.</string>
+    <string name="submit">Submit</string>
+    <string name="city">City (i.e. Charlotte )</string>
+    <string name="country">Country (i.e. US)</string>
+    <string name="tempUnit">Temperature Unit</string>
+    <string name="chooseTemp">Choose between Celsius and Farenheit</string>
+    <string name="tempLbl">Temperature:</string>
+    <string name="condition">Condition:</string>
+    <string name="conditionLbl">Condition:</string>
+    <string name="pressLbl">Pressure:</string>
+    <string name="humidityLbl">Humidity:</string>
+    <string name="windLbl">Wind:</string>
+    <string name="dateLbl">Three Hourly Forecast on</string>
+    <string name="savedCities">Saved Cities</string>
+    <string-array name="listValues">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="listArray">
+        <item>°C</item>
+        <item>°F</item>
+    </string-array>
+</resources>
